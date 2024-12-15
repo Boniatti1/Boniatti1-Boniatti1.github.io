@@ -4,14 +4,14 @@
 ## **1. Criação de uma Página HTML Simples**
 
 🔗 **Acesse a página criada**:  
-[**Clique aqui para ver a página**](https://boniatti1.github.io/Unidade%201/)
+[**Clique aqui para ver a página**](https://boniatti1.github.io/talento_tech_desenvolvimento_web/Unidade%201/)
 
 ---
 
 ## **2. Criação de um Layout Responsivo em Flutter**
 
 🔗 **Confira o layout**:  
-[**Clique aqui para ver a página**](https://boniatti1.github.io/Unidade%202/)
+[**Clique aqui para ver a página**](https://boniatti1.github.io/talento_tech_desenvolvimento_web/Unidade%202/)
 
 ---
 
@@ -19,5 +19,5 @@
 
 
 🔗 **Teste a calculadora**:  
-[**Clique aqui para ver a página**](https://boniatti1.github.io/Unidade%203/)
+[**Clique aqui para ver a página**](https://boniatti1.github.io/talento_tech_desenvolvimento_web/Unidade%203/)
 
