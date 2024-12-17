@@ -17,7 +17,12 @@
 
 ## **3. Criação de uma Calculadora Web**
 
-
 🔗 **Teste a calculadora**:  
 [**Clique aqui para ver a página**](https://boniatti1.github.io/talento_tech_desenvolvimento_web/Unidade%203/)
+
+---
+
+## **4. Implementação do Jogo da Velha**
+🔗 **Teste o jogo**:  
+[**Clique aqui para ver a página**](https://boniatti1.github.io/talento_tech_desenvolvimento_web/Unidade%204/)
 
